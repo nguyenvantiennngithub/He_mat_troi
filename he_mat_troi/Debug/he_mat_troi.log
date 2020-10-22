@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\VanTiennn\Code\C++\OpenGL\he_mat_troi\he_mat_troi\main.cpp(333,7): warning C4101: 'speedToString': unreferenced local variable
+  he_mat_troi.vcxproj -> D:\VanTiennn\Code\C++\OpenGL\he_mat_troi\Debug\he_mat_troi.exe
